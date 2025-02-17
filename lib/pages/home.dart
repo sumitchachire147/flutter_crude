@@ -57,7 +57,7 @@ class _HomeState extends State<Home> {
                                     Text(
                                       "Name: " + ds["Name"],
                                       style: TextStyle(
-                                          color: Colors.blue,
+                                          color: Colors.red,
                                           fontSize: 20.0,
                                           fontWeight: FontWeight.bold),
                                     ),
